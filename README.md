@@ -3,7 +3,7 @@ Classification Study on Amazon Data
 
 The [data](https://www.kaggle.com/sid321axn/amazon-alexa-reviews "Amazon Alexa Reviews") gives us information on a nearly 3000 Amazon customer reviews of various amazon Alexa products.
 
-By that information, we will try to make a sentiment analysis.
+By that information, we will try to discover insights about consumer reviews and perform sentiment analysis on the data.
 
 Dataset have the columns:
 

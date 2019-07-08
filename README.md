@@ -15,4 +15,4 @@ Dataset have the columns:
 
 Benefited from [udemy course](https://www.udemy.com/machine-learning-classification) by Dr. Ryan Ahmed
 
-Benefited from [Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0) and [Improving the Random Forest in Python](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd) by [Will Koehrsen](https://towardsdatascience.com/@williamkoehrsen)
+Benefited from [[Hyperparameter Tuning the Random Forest in Python]](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74) by [Will Koehrsen](https://towardsdatascience.com/@williamkoehrsen)
